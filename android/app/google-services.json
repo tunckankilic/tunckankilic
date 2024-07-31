@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "749387288681",
+    "project_id": "tunckankilicsite-9f767",
+    "storage_bucket": "tunckankilicsite-9f767.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:749387288681:android:b8b64847f045c7321512f8",
+        "android_client_info": {
+          "package_name": "site.tunckankilic.tunckankilic"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAr1-ppdrfhUnCaSz3HRgy3koID0nfVyp4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

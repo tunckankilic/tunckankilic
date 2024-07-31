@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyA53_Pb5byyVo8uy8us4g26_yO6J71x-og</string>
+	<key>GCM_SENDER_ID</key>
+	<string>749387288681</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>site.tunckankilic.tunckankilic</string>
+	<key>PROJECT_ID</key>
+	<string>tunckankilicsite-9f767</string>
+	<key>STORAGE_BUCKET</key>
+	<string>tunckankilicsite-9f767.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:749387288681:ios:3dd7d9e7663845fb1512f8</string>
+</dict>
+</plist>
